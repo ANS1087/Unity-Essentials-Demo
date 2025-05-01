@@ -49,5 +49,6 @@ sysinfo.txt
 .idea/
 *.sln.iml
 
+
 # Recordings folder to ignore
 Recordings/
