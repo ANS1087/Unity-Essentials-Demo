@@ -1,8 +1,3 @@
----
-title: "\U0001F3AE Unity Essentials Project Showcase"
-
----
-
 # 🎮 Unity Essentials Project Showcase
 
 Welcome to the documentation and showcase page for my Unity project, developed by following the **Unity Essentials Pathway** on [Unity Learn](https://learn.unity.com/pathway/unity-essentials).
